@@ -1,0 +1,7 @@
+D:\CSharp\Projects\számológép\számológép\bin\Debug\számológép.exe.config
+D:\CSharp\Projects\számológép\számológép\bin\Debug\számológép.exe
+D:\CSharp\Projects\számológép\számológép\bin\Debug\számológép.pdb
+D:\CSharp\Projects\számológép\számológép\obj\Debug\számológép.csprojAssemblyReference.cache
+D:\CSharp\Projects\számológép\számológép\obj\Debug\számológép.csproj.CoreCompileInputs.cache
+D:\CSharp\Projects\számológép\számológép\obj\Debug\számológép.exe
+D:\CSharp\Projects\számológép\számológép\obj\Debug\számológép.pdb
